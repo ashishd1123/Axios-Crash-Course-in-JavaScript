@@ -1,4 +1,5 @@
 # Axios-Crash-Course-in-JavaScript
+In this video we are looking how to operates Axios HTTP client to make requests in JavaScript, and it is a promise-based HTTP library that allows developers to make HTTP requests to their own servers or third sources.  These requests are made in several different ways.
 
 ## How to install Axios
 
